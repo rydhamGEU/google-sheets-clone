@@ -1,0 +1,29 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .grid {
+    display: inline-block;
+    border: 1px solid #ccc;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .cell {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  input {
+    width: 90%;
+    height: 90%;
+    border: none;
+    text-align: center;
+  }
